@@ -1,0 +1,35 @@
+{
+  "name": "bedrock-topcube",
+  "version": "0.0.1",
+  "description": "Bedrock topcube-based GUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-topcube"
+  },
+  "keywords": [
+    "bedrock"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-topcube/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-topcube",
+  "dependencies": {
+    "topcube": "git://github.com/digitalbazaar/topcube.git"
+  },
+  "peerDependencies": {
+    "bedrock": "~0.3.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/gui"
+}
