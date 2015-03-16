@@ -2,7 +2,7 @@
   "name": "bedrock-topcube",
   "version": "0.0.1",
   "description": "Bedrock topcube-based GUI",
-  "main": "index.js",
+  "main": "./lib/gui",
   "scripts": {
     "test": "node test.js"
   },
@@ -30,6 +30,5 @@
   },
   "directories": {
     "lib": "./lib"
-  },
-  "main": "./lib/gui"
+  }
 }
