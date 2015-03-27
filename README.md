@@ -40,9 +40,6 @@ bedrock.start();
 
 For more documentation on configuration, see [config.js](https://github.com/digitalbazaar/bedrock-topcube/blob/master/lib/config.js).
 
-## Setup
-
-1. Install
 
 [bedrock]: https://github.com/digitalbazaar/bedrock
 [topcube]: https://github.com/creationix/topcube
