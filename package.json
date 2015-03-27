@@ -4,7 +4,6 @@
   "description": "Bedrock topcube-based GUI",
   "main": "./lib/gui",
   "scripts": {
-    "test": "node test.js"
   },
   "repository": {
     "type": "git",
