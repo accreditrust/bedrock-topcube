@@ -1,6 +1,6 @@
 {
   "name": "bedrock-topcube",
-  "version": "1.0.0",
+  "version": "1.0.1-dev",
   "description": "Bedrock topcube-based GUI",
   "main": "./lib/gui",
   "scripts": {
