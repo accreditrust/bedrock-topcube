@@ -1,6 +1,6 @@
 {
   "name": "bedrock-topcube",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Bedrock topcube-based GUI",
   "main": "./lib/gui",
   "scripts": {
@@ -25,7 +25,7 @@
     "topcube": "git://github.com/digitalbazaar/topcube.git"
   },
   "peerDependencies": {
-    "bedrock": "~0.3.0"
+    "bedrock": "^1.0.0"
   },
   "directories": {
     "lib": "./lib"
